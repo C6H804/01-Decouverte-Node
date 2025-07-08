@@ -1,0 +1,20 @@
+{
+  "name": "01-decouverte-node",
+  "version": "1.0.0",
+  "description": "Créer une petite application en Node.js pour enregistrer des messages dans un journal texte, avec gestion asynchrone des fichiers via le module `fs`.",
+  "homepage": "https://github.com/dessna12/01-Decouverte-Node#readme",
+  "bugs": {
+    "url": "https://github.com/dessna12/01-Decouverte-Node/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dessna12/01-Decouverte-Node.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
